@@ -1,1 +1,1 @@
-This is my project for shell commands
+This is my project.
